@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⚡Focus<br>A passionate Backend Development</p>
+<p align="left">⚡Focus<br>A passionate Backend Development and AI Engineering</p>
 
 ###
 

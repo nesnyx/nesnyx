@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Aris Setiawan Bara and I'm a Backend Developer, from Indonesia</h2>
+<h2 align="center">Hi 👋! My name is Aris Setiawan Bara and<br>I'm a Backend Developer, from Indonesia</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif"  />
+</div>
 
 ###
 
@@ -40,12 +46,6 @@
   <a href="https://www.instagram.com/raa___sb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="asbzed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="baraaris64@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/aris-setiawan-bara-6b0155213/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -53,12 +53,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nesnyx/nesnyx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nesnyx/nesnyx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nesnyx/nesnyx/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/nesnyx/nesnyx/output/snake.svg" alt="Snake animation" />
 
 ###

@@ -8,10 +8,6 @@
 
 ###
 
-<img align="left" height="150" src="https://secure.static.tumblr.com/ef2e2596c4ea072a60453d23ceab337f/coctv14/Y6Ln55n03/tumblr_static_azgsowaz948okgow4c4o8go8c.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -57,8 +53,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nesnyx/nesnyx/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nesnyx/nesnyx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nesnyx/nesnyx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nesnyx/nesnyx/output/pacman-contribution-graph.svg">
+</picture>
 
 ###

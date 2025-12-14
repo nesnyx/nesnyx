@@ -53,6 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nesnyx/nesnyx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nesnyx/output/snake.svg" alt="Snake animation" />
 
 ###

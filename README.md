@@ -14,9 +14,8 @@
 
 ###
 
-<div align="center">
-  [![Aris Setiawan Bara GitHub stats](https://github-readme-stats.vercel.app/api?username=nesnyx)](https://github.com/nesnyx/github-readme-stats)
-</div>
+[![Aris Setiawan Bara GitHub stats](https://github-readme-stats.vercel.app/api?username=nesnyx)](https://github.com/nesnyx/github-readme-stats)
+
 
 ###
 

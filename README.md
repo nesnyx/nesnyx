@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋! My name is Aris Setiawan Bara and<br>I'm a Backend Developer, from Indonesia</h2>
+<h2 align="center">Hi 👋! My name is Aris Setiawan Bara and<br>I'm a Programmer, from Indonesia</h2>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif"  />
+  <img height="200" src="[https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif](https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif)"  />
 </div>
 
 ###

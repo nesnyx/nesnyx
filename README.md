@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Aris Setiawan Bara and<br>I'm a Programmer, from Indonesia</h2>
+<h2 align="center">Hi 👋! My name is Aris Setiawan Bara and<br>I'm a Developer, from Indonesia</h2>
 
 ###
 
